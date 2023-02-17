@@ -15,5 +15,5 @@ package = "netlify-plugin-cypress"
 [[redirects]]
 from = "/redirect/*"
 to = "https://ubiquitous-ganache-afff7d.netlify.app/:splat"
-status = 200
+status = 301
 force = true
